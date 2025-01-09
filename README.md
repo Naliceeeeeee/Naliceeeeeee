@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=naliceeeeeee" alt="naliceeeeeee" /></a> </p>
 
-- 🔭 I’m currently working on **A HRS for Jusure Construction Company LTD**
+- 🔭 I’m currently working on **An HRSystem for Jusure Construction Company LTD**
 
 - 🌱 I’m currently learning **Java,Laravel, Node, react, Flutter**
 
